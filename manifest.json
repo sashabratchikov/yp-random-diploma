@@ -1,0 +1,7 @@
+{
+  "name": "Y.P. Random Project",
+  "id": "849185048420306362",
+  "api": "1.0.0",
+  "main": "dist/plugin.js",
+  "ui": "dist/ui.html"
+}
